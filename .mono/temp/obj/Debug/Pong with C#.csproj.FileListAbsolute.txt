@@ -1,0 +1,9 @@
+D:\godot\pong\.mono\temp\bin\Debug\Pong with C#.dll
+D:\godot\pong\.mono\temp\bin\Debug\Pong with C#.pdb
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.csproj.AssemblyReference.cache
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.AssemblyInfoInputs.cache
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.AssemblyInfo.cs
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.csproj.CoreCompileInputs.cache
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.dll
+D:\godot\pong\.mono\temp\obj\Debug\Pong with C#.pdb

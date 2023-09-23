@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LqIFW+PAOg7+sMxdcO15v05oubdVfZaGt3Zc2g9dHuk+4dscrRk+Cue2dRf7OagluG/1EkGx73E8iO7qJktofA==",
+  "success": true,
+  "projectFilePath": "D:\\godot\\pong\\Pong with C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bolod\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\bolod\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
